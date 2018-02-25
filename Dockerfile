@@ -13,4 +13,4 @@ RUN apt-get update -yy && \
 
 RUN rm -rf /var/cache/apt/* /tmp/* /var/tmp/*
 
-CMD linpohnec
+CMD linphonec
