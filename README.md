@@ -1,0 +1,2 @@
+# docker-linphone
+linphone-nogtk
